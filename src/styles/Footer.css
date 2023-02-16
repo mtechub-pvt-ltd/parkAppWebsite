@@ -1,0 +1,9 @@
+.footer img{
+    width: 25vh;
+    margin-top: -7vh;
+    margin-left: 5%;
+}
+.footer .form input::placeholder{
+    padding: 1;
+    color: red;
+}

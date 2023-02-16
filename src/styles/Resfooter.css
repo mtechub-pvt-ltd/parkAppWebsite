@@ -1,0 +1,15 @@
+.res_footer img {
+    width: 15vh;
+    margin-top: -4vh;
+    margin-left: 0%;
+
+}
+
+@media screen and (min-device-width: 0px) and (max-device-width: 600px) {
+    .res_footer img {
+        width: 15vh;
+        margin-top: -4vh;
+        margin-left: -3vh;
+
+    }
+}

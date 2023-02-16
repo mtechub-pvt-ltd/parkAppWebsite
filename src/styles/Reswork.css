@@ -1,0 +1,32 @@
+.res_work .search_and_save_mockup{
+    width: 40vh;
+    margin-top: 5%;
+    margin-left: 10%;
+    align-self: center;
+}
+
+.res_work .cards{
+    width: auto;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.res_work .cards1{
+    width: auto;
+    /* height: 40vh; */
+    margin-top: 5%;
+   box-shadow: 0px 0px 5px gray;
+}
+@media screen and (min-device-width: 601px) and (max-device-width: 901px){
+    /* .res_work .search_mockup{
+        margin-left: 30%;
+    }
+    .res_work .cards1{
+        margin-top: -23%;
+    }
+    .res_work .walk_route{
+        margin-left: 30%;
+    }
+    .res_work .cards2{
+        margin-top: 5%;
+    } */
+}
